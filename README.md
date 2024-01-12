@@ -1,5 +1,6 @@
 # Math24
 
+[AI Jobs](https://aipaygrad.es/)
 
 ## Viewings
 
