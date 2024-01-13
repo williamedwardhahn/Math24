@@ -17,3 +17,5 @@
 
 
 [Lab 1](https://colab.research.google.com/drive/1aCFpU60MSwtv5cncvlck1t0HzlDc3kEn?usp=sharing)
+
+[Lab 2](https://colab.research.google.com/drive/1IEV3ROUnzEcKPnkao5rGQtNc9JFkXCrn?usp=sharing)
