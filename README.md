@@ -20,4 +20,6 @@
 
 [Lab 2](https://colab.research.google.com/drive/1IEV3ROUnzEcKPnkao5rGQtNc9JFkXCrn?usp=sharing)
 
+[Lab 3](https://colab.research.google.com/drive/1e17k65M7iOhX4FtZUfGqH9CkaltoXb1g?usp=sharing)
+
 
