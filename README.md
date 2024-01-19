@@ -29,4 +29,7 @@
 
 [Lab 3](https://colab.research.google.com/drive/1e17k65M7iOhX4FtZUfGqH9CkaltoXb1g?usp=sharing)
 
+[Lab 4](https://colab.research.google.com/drive/1bJyhYEWeOfLBHcF16ViMpSjuJeMTcHow?usp=sharing)
+
+[Lab 5](https://colab.research.google.com/drive/1_Z8yjN63RNbSwgRqdC3QHEkkM0WmzKM9?usp=sharing)
 
