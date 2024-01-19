@@ -5,6 +5,9 @@
 
 [AI Jobs](https://aipaygrad.es/)
 
+## Readings
+[The Art of Probability for Scientists and Engineers by Richard W. Hamming](https://github.com/williamedwardhahn/Probability_Statistics/blob/main/Art_of_Prob.pdf)
+
 ## Viewings
 
 
