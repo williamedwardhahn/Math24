@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Normal Distribution Curve</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        Mean: <input type="range" id="meanSlider" min="-10" max="10" value="0">
+        <span id="meanValue">0</span>
+    </div>
+    <div>
+        Standard Deviation: <input type="range" id="stdDevSlider" min="1" max="5" value="1">
+        <span id="stdDevValue">1</span>
+    </div>
+    <canvas id="canvas" width="600" height="400"></canvas>
+
+
+<script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+
+    function normalPdf(x, mean, stdDev) {
+        return Math.exp(-0.5 * Math.pow((x - mean) / stdDev, 2)) / (stdDev * Math.sqrt(2 * Math.PI));
+    }
+
+    function getMaxPdf(stdDev) {
+        // The peak of the normal distribution is at its mean, which is 0 in our case
+        return normalPdf(0, 0, stdDev);
+    }
+
+    function drawNormalCurve(mean, stdDev) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        
+        const peakPdf = getMaxPdf(stdDev);
+        const scaleFactor = (canvas.height - 20) / peakPdf; // Ensuring the peak fits within the canvas
+
+        ctx.beginPath();
+        for(let i = 0; i < canvas.width; i++) {
+            let x = (i - canvas.width / 2) / (50 * stdDev); // Adjusting the spread of the curve
+            let y = normalPdf(x, mean, stdDev);
+            if(i === 0) {
+                ctx.moveTo(i, canvas.height - y * scaleFactor);
+            } else {
+                ctx.lineTo(i, canvas.height - y * scaleFactor);
+            }
+        }
+        ctx.stroke();
+    }
+
+    document.getElementById('meanSlider').addEventListener('input', function() {
+        const mean = this.value;
+        document.getElementById('meanValue').textContent = mean;
+        drawNormalCurve(mean, document.getElementById('stdDevSlider').value);
+    });
+
+    document.getElementById('stdDevSlider').addEventListener('input', function() {
+        const stdDev = this.value;
+        document.getElementById('stdDevValue').textContent = stdDev;
+        drawNormalCurve(document.getElementById('meanSlider').value, stdDev);
+    });
+
+    drawNormalCurve(0, 1);
+</script>
+
+
+</body>
+</html>
+
