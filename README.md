@@ -6,6 +6,8 @@
 [AI Jobs](https://aipaygrad.es/)
 
 ## Readings
+[Numpy for Matlab Users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+
 [The Art of Probability for Scientists and Engineers by Richard W. Hamming](https://github.com/williamedwardhahn/Probability_Statistics/blob/main/Art_of_Prob.pdf)
 
 ## Viewings
