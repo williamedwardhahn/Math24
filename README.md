@@ -20,6 +20,9 @@
 
 [Galton Board Online](https://www.mathsisfun.com/data/quincunx.html)
 
+# Image Data Tensors
+<img src="https://kandarpkakkad.github.io/GUI-For-Hyperspectral-Image-Preprocessing-Using-Python/Images/pic1.png">
+
 ## Notebooks
 
 [Stable Diffusion](https://colab.research.google.com/drive/1PsL4pItVQ9wwBg_c0C-JjmpzwHTqG-7I#scrollTo=SxnS1Dhl36fc) 
