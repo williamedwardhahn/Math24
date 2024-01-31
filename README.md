@@ -40,3 +40,5 @@
 
 [Lab 6](https://colab.research.google.com/drive/1_Z8yjN63RNbSwgRqdC3QHEkkM0WmzKM9?usp=sharing)
 
+[Lab 7](https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing)
+
