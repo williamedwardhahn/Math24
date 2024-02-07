@@ -48,3 +48,4 @@
 
 [Lab 7](https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing)
 
+[Lab 8](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing)
