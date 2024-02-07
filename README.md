@@ -1,6 +1,7 @@
 # Math24
 
 ## Data Project
+[Project Ideas](https://docs.google.com/presentation/d/1lyE52a0yLCu9iUiKeFmdKayGJhu2Z6fyToXEMKeigoY/edit?usp=sharing)
 [Data Deck](https://docs.google.com/presentation/d/1lyE52a0yLCu9iUiKeFmdKayGJhu2Z6fyToXEMKeigoY/edit?usp=sharing)
 
 
