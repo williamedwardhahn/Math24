@@ -59,3 +59,5 @@
 [Lab 7](https://colab.research.google.com/drive/1kf9AZatPxjy6Hd8KizG1lJh7mHX1T8Fy?usp=sharing)
 
 [Lab 8](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing)
+
+[Lab 9](https://colab.research.google.com/drive/1_GMQ4u729oAMo6DHeUggYipus3_4l2jJ?usp=sharing)
