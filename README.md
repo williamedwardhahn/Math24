@@ -30,8 +30,6 @@
 
 [Random Filters](https://williamedwardhahn.github.io/data_website/Conv5.html)
 
-# Image Data Tensors
-<img src="https://kandarpkakkad.github.io/GUI-For-Hyperspectral-Image-Preprocessing-Using-Python/Images/pic1.png">
 
 ## Notebooks
 
