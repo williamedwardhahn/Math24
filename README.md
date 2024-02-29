@@ -19,7 +19,7 @@
 
 [Galton Board](https://www.youtube.com/watch?v=SZoDNfVFS7I)
 
-[Alexnet Filters])(https://www.youtube.com/watch?v=AgkfIQ4IGaM&themeRefresh=1)
+[Alexnet Filters](https://www.youtube.com/watch?v=AgkfIQ4IGaM&themeRefresh=1)
 
 ## Web Demos
 [Normal Curve Sliders](https://chat.openai.com/share/d7657218-15ca-4d22-bb72-ad521d8eb0cf)
