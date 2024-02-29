@@ -7,12 +7,6 @@
 
 
 
-
-<img src="https://camo.githubusercontent.com/f54240086f70fd4c6cafbd9c14f8a405b93f4465b6fdc192bccca61ffd615a26/68747470733a2f2f617373657473746f726576312d7072642d63646e2e756e69747933642e636f6d2f7061636b6167652d73637265656e73686f742f61316662323530302d346239342d343839362d613863372d6133396437326666336131652e77656270">
-<img src="https://www.researchgate.net/publication/336144594/figure/fig2/AS:808881324322820@1569863744938/An-example-of-the-deconvolution-process-using-transpose-convolution-In-the-figure.png">
-![image](https://github.com/williamedwardhahn/Math24/assets/2086166/b3745208-4596-4ddb-86e9-ccdec6488d26)
-
-
 [AI Jobs](https://aipaygrad.es/)
 
 ## Readings
