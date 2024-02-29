@@ -66,3 +66,8 @@
 
 
 
+
+## Watch list
+
+[The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+
